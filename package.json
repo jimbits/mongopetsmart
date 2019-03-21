@@ -1,0 +1,25 @@
+{
+  "name": "petsmarter",
+  "version": "1.0.0",
+  "description": "simple use of mongodb mongoose and api",
+  "main": "index.js",
+  "scripts": {
+    "test": "none",
+    "start": "nodemon ./server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "James Foley",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.19",
+    "nodemon": "^1.18.10"
+  }
+}
